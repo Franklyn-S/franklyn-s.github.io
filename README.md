@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+<div align="center">
 
-You can use the [editor on GitHub](https://github.com/Franklyn-S/franklyn-s.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Franklyn Seabra
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Analista de Tecnologia · Desenvolvimento de Software
 
-### Markdown
+Ciência da Computação — Universidade Federal do Ceará (UFC)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Sobre](#sobre) · [Trajetória](#trajetória) · [Formação](#formação) · [Competências](#competências) · [Contato](#contato)
 
-```markdown
-Syntax highlighted code block
+[LinkedIn](https://www.linkedin.com/in/franklyn-s-178489125/) · [GitHub](https://github.com/Franklyn-S)
 
-# Header 1
-## Header 2
-### Header 3
+</div>
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
+## Sobre
 
-**Bold** and _Italic_ and `Code` text
+Sou profissional de tecnologia da informação e técnico em Redes de Computadores pela E.E.E.P. Juarez Távora. Sou bacharel em Ciência da Computação pela Universidade Federal do Ceará e trabalho com desenvolvimento de software.
 
-[Link](url) and ![Image](src)
-```
+Tenho interesse em software livre, inteligência artificial, arquitetura de software, desenvolvimento web e mobile, backend, ciência de dados e aprendizado de máquina.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Trajetória
 
-### Jekyll Themes
+| Período | Atuação |
+| --- | --- |
+| **2024 — atual** | **Analista de Tecnologia · SERPRO** — desenvolvimento de software. |
+| **2019 — 2024** | **OSF Digital** — trajetória em desenvolvimento front-end, de estagiário a desenvolvedor júnior e intermediário, trabalhando com React, JavaScript, HTML e CSS. |
+| **2017 — 2019** | Bolsas e projetos na UFC, no Advanced Research in Database e no NUTEDS, com atividades de pesquisa e desenvolvimento web. |
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Franklyn-S/franklyn-s.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Formação
 
-### Support or Contact
+- **Pós-graduação em Arquitetura de Software e Soluções com IA** — XP Educação · 2025
+- **Tech Lead Program: Gestão de Pessoas com Ênfase em Liderança Organizacional** — IFTL · 2023
+- **Bacharelado em Ciência da Computação** — Universidade Federal do Ceará (UFC) · 2017–2021
+- **Técnico em Redes de Computadores** — E.E.E.P. Juarez Távora · 2014–2016
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Competências
+
+- **Desenvolvimento:** React, JavaScript, TypeScript, Angular, HTML, CSS e Java
+- **Dados e backend:** PostgreSQL, Entity Framework, bancos relacionais e NoSQL
+- **Estudos e práticas:** C, C++, Python, Jupyter Notebook, aprendizado de máquina, software livre e desempenho web
+
+Também utilizo ferramentas de IA como apoio ao desenvolvimento, incluindo OpenAI Codex, GitHub Copilot e Claude Code.
+
+## Certificação e idiomas
+
+- **ITIL Foundation Version 5** — PeopleCert · 2026–2029
+- **Português:** nativo · **Inglês:** fluência profissional · **Francês:** intermediário
+
+## Contato
+
+- [LinkedIn · Franklyn Seabra](https://www.linkedin.com/in/franklyn-s-178489125/)
+- [GitHub · Franklyn-S](https://github.com/Franklyn-S)
